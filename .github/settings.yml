@@ -5,5 +5,3 @@ repository:
   description: "This component provisions Amazon managed workflows for Apache Airflow"
   homepage: https://cloudposse.com/accelerate
   topics: terraform, terraform-component
-
-
