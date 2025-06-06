@@ -89,7 +89,7 @@ components:
 |------|--------|---------|
 | <a name="module_iam_policy"></a> [iam\_policy](#module\_iam\_policy) | cloudposse/iam-policy/aws | 0.5.0 |
 | <a name="module_iam_roles"></a> [iam\_roles](#module\_iam\_roles) | ../account-map/modules/iam-roles | n/a |
-| <a name="module_mwaa_environment"></a> [mwaa\_environment](#module\_mwaa\_environment) | cloudposse/mwaa/aws | 0.13.0 |
+| <a name="module_mwaa_environment"></a> [mwaa\_environment](#module\_mwaa\_environment) | cloudposse/mwaa/aws | 0.13.1 |
 | <a name="module_this"></a> [this](#module\_this) | cloudposse/label/null | 0.25.0 |
 | <a name="module_vpc"></a> [vpc](#module\_vpc) | cloudposse/stack-config/yaml//modules/remote-state | 1.8.0 |
 | <a name="module_vpc_ingress"></a> [vpc\_ingress](#module\_vpc\_ingress) | cloudposse/stack-config/yaml//modules/remote-state | 1.8.0 |
