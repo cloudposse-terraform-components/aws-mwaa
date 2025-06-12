@@ -16,7 +16,7 @@ locals {
 
 module "mwaa_environment" {
   source  = "cloudposse/mwaa/aws"
-  version = "0.13.1"
+  version = "0.13.2"
 
   region                          = var.region
   create_s3_bucket                = var.create_s3_bucket
