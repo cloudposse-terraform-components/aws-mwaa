@@ -1,5 +1,4 @@
 locals {
-  enabled = module.this.enabled
 
   vpc_outputs        = module.vpc.outputs
   private_subnet_ids = slice(local.vpc_outputs.private_subnet_ids, 0, 2) # MWAA Environments must have length less than or equal to 2 subnets

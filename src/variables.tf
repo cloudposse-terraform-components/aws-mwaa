@@ -159,12 +159,6 @@ variable "airflow_configuration_options" {
   default     = {}
 }
 
-variable "allowed_web_access_role_arns" {
-  type        = list(string)
-  default     = []
-  description = "List of role ARNs to allow airflow web access"
-}
-
 variable "allowed_web_access_role_names" {
   type        = list(string)
   default     = []
